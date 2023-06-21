@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kerthana
+- 👋 Hi, I’m S Kerthana
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning Be cse
 - 💞️ I’m looking to collaborate on ....
